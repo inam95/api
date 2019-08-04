@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is great!!!",
+      "id": 1
+    },
+    {
+      "title": "Apex Legend",
+      "description": "Hell Yeah..",
+      "userId": "108371504008322416441",
+      "id": 2
+    },
+    {
+      "title": "Pubg Time",
+      "description": "AMW smash",
+      "userId": "108371504008322416441",
+      "id": 3
+    }
+  ]
+}
